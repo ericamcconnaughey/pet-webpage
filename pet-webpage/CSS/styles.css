@@ -1,0 +1,30 @@
+h1 {
+  color: darkolivegreen;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h2 {
+  color: rgb(53, 43, 117);
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: bolder;
+}
+
+h3 {
+  color: peru;
+}
+p {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+li {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  decoration
+}
+
+a {
+  color: teal;
+}
+
+body {
+  background-color: beige;
+}
